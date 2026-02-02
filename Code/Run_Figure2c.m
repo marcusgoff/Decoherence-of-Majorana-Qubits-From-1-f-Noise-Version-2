@@ -412,4 +412,4 @@ saveas(gcf, '../results/figure_2c_inset.svg');
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Save Data
 close all;
-save('../results/figure_2c_data_5_10');
+save('../results/figure_2c_data');
