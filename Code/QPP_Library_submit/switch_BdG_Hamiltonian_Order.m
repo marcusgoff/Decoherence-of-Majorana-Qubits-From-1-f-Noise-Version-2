@@ -11,9 +11,6 @@
 
 function Hb = switch_BdG_Hamiltonian_Order(Ha)
 
-    % Let's at first do a really lazy way, to make sure I'm sure of what's
-    % going on. Should be able to do this in one line of code or with a
-    % unitary matrix.
     
     if size(Ha,1) ~= size(Ha,2)
         error('Ha must be a square matrix'); % should also be Hermitian
@@ -36,3 +33,4 @@ function Hb = switch_BdG_Hamiltonian_Order(Ha)
         end
     end
 end
+
