@@ -46,7 +46,7 @@ try
     clearvars 
     run('Code/Run_FigureS1.m');
     clearvars;
-    run('Code/Run_Figure3cd.m');
+    run('Code/Run_Figure3cde.m');
     clearvars;
     run('Code/Run_FigureS2.m');
     clearvars;
