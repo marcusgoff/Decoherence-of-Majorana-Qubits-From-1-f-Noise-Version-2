@@ -49,4 +49,4 @@ All figures are output into the folder **`results`** and are titled according to
 ---
 
 ## Troubleshooting
-If you run into any issues or have any questions, please contact m.goffage@unsw.edu.au.  
+If you run into any issues or have any questions, please leave a comment on GitHub or contact author M. Goffage. 
