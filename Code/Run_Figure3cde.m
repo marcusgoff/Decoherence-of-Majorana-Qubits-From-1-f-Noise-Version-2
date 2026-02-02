@@ -40,8 +40,7 @@ close all;
 fprintf('\n Running Run_Figure3cde \n');
 
 %% Load results from Run_FigureS1
-% load('../results/figure_S1_data');                    
-load('../results_messy/figure_S1_data_5ns.mat');        
+load('../results/figure_S1_data');                    
 warning('off', 'all');                                  
 
 %% Plot styling
